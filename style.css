@@ -1,0 +1,19 @@
+body{
+    font-family: 'MuseoModerno', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.n1{
+    color: goldenrod;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 3%;
+
+}
+.half img{
+    width: 100%;
+}
